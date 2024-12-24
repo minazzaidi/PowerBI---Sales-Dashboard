@@ -18,8 +18,14 @@ For this analysis I have used Sales dataset where I have 4 sheets of data:
 * For calendar table, columns of Year, Month and Month Name were calculated and added besides the date table.
 * New table was created to keep all the calculations created in one place and be easily tracked.
 ---
+**DATA MODELLING**
 
-**Calculations**
+The data models were created using the Model view page in Power BI. 
+There are 2 fact tables - Actual and Target tables for Sales, connected to Calendar table using date column and People table using Sales person column.
+
+---
+
+**CALCULATIONS**
 
 * Total Sales Target - Sum of Target Sales
 * Total Sales Actual - Sum of Actual Sales
@@ -29,13 +35,13 @@ For this analysis I have used Sales dataset where I have 4 sheets of data:
 * Months Target Reached - Calculated the months where targets where reached
  ---
 
- **Dashboard**
+ **DASHBOARD**
 
  The dashboard looks like this image below.
 ![image](https://github.com/user-attachments/assets/aaf91885-9d5a-4286-ac2f-8e1093210702)
 
 
- The dashboard consists of 4 main components: 
+ The dashboard consists of 3 main components: 
  **Key Performance Indicators:** 
  The KPIs include indicators such as Target Sales, Actual Sales, Variance, Variance percentage and no of months when target was reached.
 
@@ -50,5 +56,7 @@ For this analysis I have used Sales dataset where I have 4 sheets of data:
 Year - The data can be filtered based on specific year, quarter and month.
 Team - The data can be filtered based on the specific sales teams.
 
+---
+THANKS FOR VIEWING!!!
 
 
