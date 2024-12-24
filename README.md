@@ -42,6 +42,7 @@ There are 2 fact tables - Actual and Target tables for Sales, connected to Calen
 
 
  The dashboard consists of 3 main components: 
+
  **Key Performance Indicators:** 
  The KPIs include indicators such as Target Sales, Actual Sales, Variance, Variance percentage and no of months when target was reached.
 
