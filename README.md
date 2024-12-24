@@ -30,7 +30,10 @@ For this analysis I have used Sales dataset where I have 4 sheets of data:
  ---
 
  **Dashboard**
-![image](https://github.com/user-attachments/assets/9c701469-b2b6-451c-ac13-549907ec0962)
+
+ The dashboard looks like this image below.
+![image](https://github.com/user-attachments/assets/aaf91885-9d5a-4286-ac2f-8e1093210702)
+
 
  The dashboard consists of 4 main components: 
  **Key Performance Indicators:** 
